@@ -19,7 +19,7 @@ And at the moment relying on the great software and electronics work that has be
 
 ## Repository Contents
 
-This repository contains all design files for the fabPedals as follows:
+This repository contains all design files for the Actrive fabPedal as follows:
 
 - **`CAD` folder**: Contains CAD design files, including:
   - 3D `.stl` files of the parts
