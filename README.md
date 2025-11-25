@@ -1,6 +1,6 @@
 # fabPedal Active 
 
-## About the Product
+## About the Project
 
 | ![fabpedal Active sim racing pedal Image](https://github.com/fabemit/fabPedal-Active/blob/main/images/fabPedal-Active.png) |
 | :----------------------------------------------------------: |
@@ -19,9 +19,9 @@ And at the moment relying on the great software and electronics work that has be
 
 ## Repository Contents
 
-This repository contains all design files for Hall effect sensor breakout with analog output, organized as follows:
+This repository contains all design files for the fabPedals as follows:
 
-- **`CAD` folder**: Contains KiCAD design files, including:
+- **`CAD` folder**: Contains CAD design files, including:
   - 3D `.stl` files of the parts
   - All files are sorted by version with a detailed change log.
 - **`FIRMWARE` folder**: Includes all source files, such as:
