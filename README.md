@@ -2,7 +2,7 @@
 
 ## About the Product
 
-| ![fabpedal Active sim racing pedal Image]() |
+| ![fabpedal Active sim racing pedal Image](https://github.com/fabemit/fabPedal-Active/blob/main/images/fabPedal-Active.png) |
 | :----------------------------------------------------------: |
 
 Active Sim Racing Pedal. This is my design for an active mostly 3D printed Sim Racing pedal that hopefully should be alot cheaper than current commerical equivalents.
